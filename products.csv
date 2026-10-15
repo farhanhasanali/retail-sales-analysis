@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price,supplier
+1,Laptop,Electronics,900,Tech Supplier
+2,Smartphone,Electronics,700,Mobile Supplier
+3,Headphones,Electronics,120,Audio Supplier
+4,Office Chair,Furniture,250,Office Supplier
+5,Desk,Furniture,400,Office Supplier
+6,Coffee Machine,Appliances,180,Home Supplier
+7,Printer,Electronics,300,Tech Supplier
+8,Backpack,Accessories,60,Fashion Supplier
+9,Monitor,Electronics,350,Tech Supplier
+10,Keyboard,Accessories,80,Tech Supplier
